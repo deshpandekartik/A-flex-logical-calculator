@@ -4,7 +4,7 @@
 A propositional logic evaluator which reads in-fix logic expressions from standard input and writes the computed
 result on standard output. 
 
-## Operations 
+## Summary 
 
 - The calculator terminates when control-D is pressed
 - Constants are True and False
