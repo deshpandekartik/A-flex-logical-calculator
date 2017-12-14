@@ -18,6 +18,14 @@ responds with an error message: "Invalid character: #". Error messages should be
 stderr. If parentheses are not matched, you also need to print out an error message
 
 
+## Setup 
+
+```
+make clean
+make all
+
+```
+
 ## Sample input / output
 
 ```
